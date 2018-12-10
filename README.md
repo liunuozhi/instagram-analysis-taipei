@@ -19,6 +19,7 @@ anaconda python=3.7
 ```
 pip install emoji
 pip install jieba
+pip install pyproj
 ```
 
 
@@ -27,6 +28,7 @@ pip install jieba
 * [emoji](https://github.com/carpedm20/emoji)
 * [jieba](https://github.com/fxsjy/jieba)
 * [idf.txt.big](https://github.com/fxsjy/jieba/blob/master/extra_dict/idf.txt.big)
+* [pyproj](https://jswhit.github.io/pyproj/)
 
 ## Authors
 
